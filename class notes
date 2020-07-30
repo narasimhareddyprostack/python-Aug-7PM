@@ -38,27 +38,57 @@ High Level Programming Language
 			  
 		   
 Platform independent
-
+ 
+ Write Once run any where?
+ 
 
 5)Portability
 	
 
-Dynamically Type
+6)Dynamically Typed
+
+  Java code
+ int a = 40;  strictly type programmming
+ 
+ Python:
+ 
+  a = "Good"
+  
+  print(a)
+ 
+ 
+ 
+ 
+ 
 
 
 
-Interpreted Programming
+7)Interpreted Programming
 Exestenive Library
-Python Oop
 
-
-concise code
-Less  -- do more 
-
+8)Python Oop/Procedure/Module /Scripting 
 
 
 
 What we can do with Python?
+
+Web Dev  - Python - Django, Flask
+Game - PyGame
+Data Analysicts - Pands, numpy,
+
+Data scince
+
+NLP - NLTK
+
+Image Process - OpenCV
+
+Deep Leanring -  Tensor flow, Keras, CNTK
+
+DevOps - Json, YML, Python Scripting
+
+
+AI/ML
+
 
 
 Curriculam?
