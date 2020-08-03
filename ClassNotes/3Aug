@@ -11,3 +11,13 @@ Pyton reserved words/keywords
 Data Types
 
 
+Python is dynamically typed programming language we are not required to declared
+type explicitly.
+
+Being a programmmer, you never going type explicitly int, float, boolean, such type 
+reserved words not there in python.
+
+python keywords list
+
+import keyword
+print(keyword.kwlist)
