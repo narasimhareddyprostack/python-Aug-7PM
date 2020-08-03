@@ -21,3 +21,32 @@ python keywords list
 
 import keyword
 print(keyword.kwlist)
+
+
+Data Types
+=============
+In Python, we are not specify the type explicitly
+In Python type concept not applicable 
+In Python, type concept available, we are not required to declared explicitly
+
+Type will be consider as automatically based on provided value.
+
+In Build Data types in Python
+--------------------------------
+int
+float
+complex
+boolean
+str
+
+list 
+tuple
+set 
+dict
+frozenset
+
+byte
+bytearray
+range
+None
+
