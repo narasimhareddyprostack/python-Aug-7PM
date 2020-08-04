@@ -1,0 +1,36 @@
+Python comments
+------------------
+# Single comments
+'''
+Python multiline comments ''' ''' or """   """
+Python multiline comments 
+'''
+# comments serve as note's to the programmers/developer
+
+
+Kewords/Reserved Words
+--------------------------
+Keywords are the predefiend words given by the Python Interpretetor
+Eash Keyword has their own identity and specific task
+while creating variable, if we use Keyword Interpretetor will will identity and update us.
+We shold not use python keywords as variable name.
+
+In Java
+----------
+int a;  # Declaration
+a=10;   # Initilization
+
+-------------
+a = 10  # Declaration and Initilization one line only.
+
+multiple Assignments
+--------------------
+student_No = 100
+student_Name = "Narasimha"
+student_Persentage =70.5
+
+Input and output statement in python
+
+input() and print()
+
+
