@@ -1,14 +1,19 @@
-
-# Rule1: allowed a - z, A - Z, 0-9, _
-# Identifier should not start digit
-# python programm/identifers are case sensitive
-#we can't use keywords or reserved words
-#there is no lenght limit in identi
-
-
+Agenda
+----------------------------
 Python Identifier
 Pyton reserved words/keywords
 Data Types
+
+# Rule1:Allowed a - z, A - Z, 0-9, _
+# Rule2:Identifier should not start digit
+# Rule3:Python programm/identifers are case sensitive
+# Rule4:We can't use keywords or reserved words
+# Rule5:There is no lenght limit in Identifier
+
+
+
+
+
 
 
 Python is dynamically typed programming language we are not required to declared
