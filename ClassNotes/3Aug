@@ -10,6 +10,11 @@ Data Types
 # Rule4:We can't use keywords or reserved words
 # Rule5:There is no lenght limit in Identifier
 
+_a -->  protected variable 
+
+__a  --> private vairable
+
+__a___  ---> magic variable
 
 
 
