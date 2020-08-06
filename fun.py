@@ -84,9 +84,13 @@ print('price value = {}'.format(price))
 print('Price value = %.2f' %price)
 
 
-'''
+
 
 a =20
 print(type(a))
 print(id(a))
+
+'''
+
+
 
