@@ -1,0 +1,8 @@
+input()
+print()
+type()
+id()
+
+int()
+floor()
+str()
