@@ -1,0 +1,24 @@
+Operators
+==============
+
+1)Arithmatic Operators  ( 5 +2(**, // ))  
+2)Relational Operators  ( <, > , <=, >=, !=, == )
+                      # return boolean (True, False)
+3)Unary Operators  ( - , +)
+
+
+4)Assignmet Operators
+
+5)Logical Operators
+6)Identity Operators
+7)bitwise Operators
+8)Membership Operators
+
+
+
+10 + 5   # 15
+10 - 5    # 5
+10 * 5   # 50
+10 // 5   # 2 
+10 % 5   # 0
+
