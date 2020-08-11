@@ -6,3 +6,6 @@ id()
 int()
 floor()
 str()
+
+ord()   # to find unicode of char
+chr()   # to find char of unicode

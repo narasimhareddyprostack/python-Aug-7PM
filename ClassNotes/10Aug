@@ -1,7 +1,7 @@
 Operators
 =======================================================
 
-1)Arithmatic Operators  ( 5 +2(**, // ))  
+1)Arithmatic Operators  ( 5 +2(**, // ))  *, + 
 2)Relational Operators  ( <, > , <=, >=, !=, == )
                       # return boolean (True, False)
 3)Unary Operators  ( - , +)
