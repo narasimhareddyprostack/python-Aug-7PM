@@ -1,0 +1,34 @@
+Tuple
+
+  - Duplicates
+  - Hetrogenous
+  - Insertion order presered
+  - Immutable
+  
+  t = (10,20,30)
+  
+  t[0] = 100  # not allowed
+  
+  
+  
+  List vs Tuple
+  ---------------------
+  
+  Mutable    Immutable
+  
+  []          ()
+  
+  More memory			  Very less memory
+  
+  accessingm more			more faster
+  
+  ---------------------------------------
+  count
+  index
+  
+  
+  
+  
+  
+
+  
