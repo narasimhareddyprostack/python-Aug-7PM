@@ -1,0 +1,20 @@
+function and Ananymous and Recursive function
+String
+Python oops -1
+Python oops -2
+Python oops -3
+
+Execption Handling
+File Handling
+Multithreading
+Reg Exp
+
+Python Modules
+1.Math 
+2.Random
+3.Data and Time
+4.Numpy
+5.Pandas
+
+Python Data Base Connectivey
+Python Project using Pandas/Data  Analysis
