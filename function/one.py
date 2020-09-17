@@ -1,15 +1,13 @@
-def sum(a,c,d,b=0):
-    return a+d
+def wish():
+    print("Good Morning")
+    print("Good Afternoon")
+    print("Good Night")
 
-print(sum(b=2,a=10,d=4,c=2))
+a = 10
+b =20
+c =100
 
-#function name - sum
-
-
-
-
-
-
-
-# def keyword, function name , with :
-# parameter/arg options
+wish()
+wish()
+wish()
+    
