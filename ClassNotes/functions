@@ -9,3 +9,31 @@ str()
 
 ord()   # to find unicode of char
 chr()   # to find char of unicode
+-----------
+Recrusion?
+What is Python Recrusion function?
+How to define a Recrusion?
+
+Adv and Dis Adv
+--------------------
+Recrusion -  function calling itself
+
+def order():
+    print('Order Successfully created')
+	
+order()
+
+------------------------
+lambda function/anonymous function/nameless function/no name function
+------------------------
+def order():
+    print('Hello')
+	return 'hello
+
+   
+   
+function - name, arguments, return 1 or multiple values
+
+lambda arguments: express
+
+	
