@@ -1,0 +1,9 @@
+f=open('abc.txt')
+print(f.name)
+print(f.mode)
+print(f.closed)
+print(f.readable())
+print(f.writable())
+print('****************');
+f.close()
+print(f.closed)
